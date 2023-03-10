@@ -4,7 +4,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/)
 
 ![Lucas Mello GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-mmello&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mmello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mmello&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu utilizo no meu dia a dia
 
