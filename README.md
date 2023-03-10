@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Lucas Mello ✌️
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/){target="_blank"}
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/){:target="_blank"}
 
 ![Lucas Mello GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-mmello&show_icons=true&theme=great-gatsby)
 
