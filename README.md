@@ -4,8 +4,8 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/)
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-mmello&show_icons=true&theme=great-gatsby" alt="Status Geral" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas-mmello&layout=compact&theme=great-gatsby" alt="Status linguagens" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-mmello&show_icons=true&theme=great-gatsby" alt="Status Geral" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas-mmello&layout=compact&theme=great-gatsby" alt="Status linguagens" height="150" />
 
 </div>
 
