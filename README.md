@@ -20,3 +20,5 @@
 
 Programador que busca aprender cada vez mais sobre as tecnologias do mercado.
 
+
+![Snake animation](https://github.com/lucas-mmello)
