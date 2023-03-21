@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Lucas Mello ✌️
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/) [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucas-mmello.github.io/Portfolio)
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/) [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucas-mmello.github.io/Portfolio/loading.html)
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-mmello&show_icons=true&theme=great-gatsby" alt="Status Geral" height="150" />
