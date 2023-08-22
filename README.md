@@ -20,6 +20,7 @@
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin: 2px" />
   <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 2px" />
   <img align="center" alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" style="margin: 2px" />
+  <img align="center" alt="SQL SERVER" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 2px" />
 </div><br/>
 
 Programador que busca aprender cada vez mais sobre as tecnologias do mercado.
