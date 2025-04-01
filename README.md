@@ -1,5 +1,6 @@
 
-### Olá eu sou o Lucas Mello ✌️
+### Olá! Eu sou o Lucas Matos de Mello 👋
+
 Sou bacharel em Sistemas de Informação e atualmente estou cursando pós-graduação em Engenharia de Software. Minha paixão pela tecnologia me levou a explorar diversas áreas do desenvolvimento de software, sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matos-de-mello-474a29196/) [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucas-mmello.github.io/Portfolio)
@@ -10,7 +11,7 @@ Sou bacharel em Sistemas de Informação e atualmente estou cursando pós-gradua
 
 </div>
 
-### Tecnologias que eu utilizo no meu dia a dia
+### 🚀 Tecnologias que eu utilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 2px"/>
